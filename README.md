@@ -26,6 +26,7 @@ The main html file that can be edited is at `./dist/index.html`.
 1. Head over to Avatar image and add **h-6 w-6 mx-auto rounded-full** to the class.
 
 2. In the Card Descriptions div add the following classes **text-center**
+
 3. To the mentor name div add **text-lg font-bold**
 4. Add **text-blue-600 font-medium** to mentor role div class
 5. Add **text-gray-500** to mentor email div class
